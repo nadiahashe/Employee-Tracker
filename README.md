@@ -1,5 +1,5 @@
 # Employee Database Tracker
-  Created By: "Nadia Hashemi" - in collaboration with edX Coding Bootcamp
+  Created By: "Nadia Hashemi"
   ## Description:
   This coding project is a practice project in SQL databases. Structured query language is commonly used in back-end data collection and storage.
   I built this employee tracker to break down the heirarchy structures of the workplace environment - like job positions, titles, salaries, etc. to demonstrate best practices to safely store the data and accurately retrieve it. This project does have real world application in any workplace feeling tech-saavy enough to implement. Through this process I learned about databases, tables, primary and serial keys, npm console.table, and postgres pooling.
