@@ -32,7 +32,7 @@ VALUES
 
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
 VALUES 
-    ('John', 'Snow', 1, NULL),
+    ('John', 'Snow', 1, NULL),    -- Valid role_id
     ('Sally', 'Seashell', 2, 1),
     ('William', 'Shakespeare', 3, 1),
     ('Itza', 'Memario', 4, NULL),
