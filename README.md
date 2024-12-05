@@ -10,7 +10,7 @@
   * [Credits](#credits)
   ## Installation: 
   For a video guide of this project and how it works, you can watch the video found here:
-  https://vimeo.com/
+  https://share.vidyard.com/watch/WuhxuGPekVRUL145M814zq?
   <br/>The following steps will allow you to run the code locally:
   <br/>Step 1: Navigate to : https://github.com/nadiahashe/Employee-Tracker.git
   <br/>Step 2: Clone the repo to download it onto your local computer
